@@ -139,3 +139,4 @@ print("who gets the biggest % coverage by neightborhood", sbif_by_ca.head(30))
 
 
 # print(dfs["socio_new"][["COMMUNITY AREA NAME","PERCENT HOUSEHOLDS BELOW POVERTY"]].head(20))
+
