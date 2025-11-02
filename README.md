@@ -124,3 +124,4 @@ So, whether a community is mainly white, Black, or Latino, or whether its averag
 HOWEVER, wealthier or more active neighborhoods have more total projects, more applicants, and therefore receive a larger total dollar amount in city grants, even if each project is funded at the same rate as those in lower income areas. If we look at the count of communities for the grants, the South and West Sides, which face greater economic hardship according to the income levels, appear less frequently in the data. 
 
 What does this mean? I would argue theres barriers in participation rather than unfair treatment in the grant structure itself. So yes , Chicagos grants are fair in how much they cover, but not everyone has the same level of access to the application or process of the grants themselves.
+
