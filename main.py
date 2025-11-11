@@ -165,6 +165,7 @@ nof_corr = merged[[
 print("\nNOF correlations with neighborhood factors:")
 print(nof_corr.to_string())
 
+
 # print(df[["loan_amount_per_hh","non_white_hh_share","ami_shr"]].corr())
 # print(merged[["non_white_hh_share","ami_shr","sbif_mean","nof_mean"]].corr())
 
@@ -269,4 +270,3 @@ dfs["cmi_demo"]["Borrower Ethnicity"] = (
 
 
 # print(dfs["socio_new"][["COMMUNITY AREA NAME","PERCENT HOUSEHOLDS BELOW POVERTY"]].head(20))
-
