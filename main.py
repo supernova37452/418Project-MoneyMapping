@@ -15,7 +15,8 @@ paths = {
     "sbif": "Datasets/SBIF_Applicants_Small_Business_Projects_2025.csv",
     "socio_old": "Datasets/Socioecon_Community_2008_2012.csv",
     "socio_new": "Datasets/Socioeconomic_Neighborhoods_2025.csv.csv",
-    "socio_by_ca": "Datasets/chi_data_tract.csv",#ok this is just an update social_old, same df structure
+    "socio_by_ca_tract": "Datasets/chi_data_tract.csv",#ok this is just an update social_old, same df structure
+    "socio_by_data": "Datasets/chi_data.csv",
 }
 
 dfs = {k: read_csv_any(p) for k,p in paths.items()}
